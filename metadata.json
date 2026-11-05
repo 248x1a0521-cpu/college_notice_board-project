@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect – College Notice Board",
+  "description": "Production-quality college notice board mobile application featuring Material 3 design, department filtering, search, local persistence, and comprehensive Flutter source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
